@@ -1,2 +1,2 @@
-# scrapping
-scrapping nodeJS
+# Scraping Web
+NodeJS, Cheerio
